@@ -87,5 +87,6 @@ class removingNodeFromEnd {
             System.out.print(head.data + "->");
             head = head.next;
         }
+        System.out.print("nullptr");
     }
 }
